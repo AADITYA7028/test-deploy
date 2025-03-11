@@ -23,7 +23,7 @@ function App() {
      <HeroSection/>
      <SocialProof/>
     </div>
-    {/* <div className="bg-custom2">
+    <div className="bg-custom2">
      <HowItWorks/>
     </div>
     <div className="bg-custom3 min-h-screen">
@@ -35,7 +35,7 @@ function App() {
     <UsingVerifier/>
     <Questions/>
     <TrySeeSection/>
-    <div className="footerBgImg"><Footer/></div> */}
+    <div className="footerBgImg"><Footer/></div>
     </>
   );
 }
